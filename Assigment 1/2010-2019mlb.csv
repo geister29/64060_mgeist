@@ -1,0 +1,301 @@
+yearID,lgID,teamID,franchID,divID,G,W,L,name
+2010,NL,ARI,ARI,W,162,65,97,Arizona Diamondbacks
+2010,NL,ATL,ATL,E,162,91,71,Atlanta Braves
+2010,AL,BAL,BAL,E,162,66,96,Baltimore Orioles
+2010,AL,BOS,BOS,E,162,89,73,Boston Red Sox
+2010,AL,CHA,CHW,C,162,88,74,Chicago White Sox
+2010,NL,CHN,CHC,C,162,75,87,Chicago Cubs
+2010,NL,CIN,CIN,C,162,91,71,Cincinnati Reds
+2010,AL,CLE,CLE,C,162,69,93,Cleveland Indians
+2010,NL,COL,COL,W,162,83,79,Colorado Rockies
+2010,AL,DET,DET,C,162,81,81,Detroit Tigers
+2010,NL,FLO,FLA,E,162,80,82,Florida Marlins
+2010,NL,HOU,HOU,C,162,76,86,Houston Astros
+2010,AL,KCA,KCR,C,162,67,95,Kansas City Royals
+2010,AL,LAA,ANA,W,162,80,82,Los Angeles Angels of Anaheim
+2010,NL,LAN,LAD,W,162,80,82,Los Angeles Dodgers
+2010,NL,MIL,MIL,C,162,77,85,Milwaukee Brewers
+2010,AL,MIN,MIN,C,162,94,68,Minnesota Twins
+2010,AL,NYA,NYY,E,162,95,67,New York Yankees
+2010,NL,NYN,NYM,E,162,79,83,New York Mets
+2010,AL,OAK,OAK,W,162,81,81,Oakland Athletics
+2010,NL,PHI,PHI,E,162,97,65,Philadelphia Phillies
+2010,NL,PIT,PIT,C,162,57,105,Pittsburgh Pirates
+2010,NL,SDN,SDP,W,162,90,72,San Diego Padres
+2010,AL,SEA,SEA,W,162,61,101,Seattle Mariners
+2010,NL,SFN,SFG,W,162,92,70,San Francisco Giants
+2010,NL,SLN,STL,C,162,86,76,St. Louis Cardinals
+2010,AL,TBA,TBD,E,162,96,66,Tampa Bay Rays
+2010,AL,TEX,TEX,W,162,90,72,Texas Rangers
+2010,AL,TOR,TOR,E,162,85,77,Toronto Blue Jays
+2010,NL,WAS,WSN,E,162,69,93,Washington Nationals
+2011,NL,ARI,ARI,W,162,94,68,Arizona Diamondbacks
+2011,NL,ATL,ATL,E,162,89,73,Atlanta Braves
+2011,AL,BAL,BAL,E,162,69,93,Baltimore Orioles
+2011,AL,BOS,BOS,E,162,90,72,Boston Red Sox
+2011,AL,CHA,CHW,C,162,79,83,Chicago White Sox
+2011,NL,CHN,CHC,C,162,71,91,Chicago Cubs
+2011,NL,CIN,CIN,C,162,79,83,Cincinnati Reds
+2011,AL,CLE,CLE,C,162,80,82,Cleveland Indians
+2011,NL,COL,COL,W,162,73,89,Colorado Rockies
+2011,AL,DET,DET,C,162,95,67,Detroit Tigers
+2011,NL,FLO,FLA,E,162,72,90,Florida Marlins
+2011,NL,HOU,HOU,C,162,56,106,Houston Astros
+2011,AL,KCA,KCR,C,162,71,91,Kansas City Royals
+2011,AL,LAA,ANA,W,162,86,76,Los Angeles Angels of Anaheim
+2011,NL,LAN,LAD,W,161,82,79,Los Angeles Dodgers
+2011,NL,MIL,MIL,C,162,96,66,Milwaukee Brewers
+2011,AL,MIN,MIN,C,162,63,99,Minnesota Twins
+2011,AL,NYA,NYY,E,162,97,65,New York Yankees
+2011,NL,NYN,NYM,E,162,77,85,New York Mets
+2011,AL,OAK,OAK,W,162,74,88,Oakland Athletics
+2011,NL,PHI,PHI,E,162,102,60,Philadelphia Phillies
+2011,NL,PIT,PIT,C,162,72,90,Pittsburgh Pirates
+2011,NL,SDN,SDP,W,162,71,91,San Diego Padres
+2011,AL,SEA,SEA,W,162,67,95,Seattle Mariners
+2011,NL,SFN,SFG,W,162,86,76,San Francisco Giants
+2011,NL,SLN,STL,C,162,90,72,St. Louis Cardinals
+2011,AL,TBA,TBD,E,162,91,71,Tampa Bay Rays
+2011,AL,TEX,TEX,W,162,96,66,Texas Rangers
+2011,AL,TOR,TOR,E,162,81,81,Toronto Blue Jays
+2011,NL,WAS,WSN,E,161,80,81,Washington Nationals
+2012,NL,ARI,ARI,W,162,81,81,Arizona Diamondbacks
+2012,NL,ATL,ATL,E,162,94,68,Atlanta Braves
+2012,AL,BAL,BAL,E,162,93,69,Baltimore Orioles
+2012,AL,BOS,BOS,E,162,69,93,Boston Red Sox
+2012,AL,CHA,CHW,C,162,85,77,Chicago White Sox
+2012,NL,CHN,CHC,C,162,61,101,Chicago Cubs
+2012,NL,CIN,CIN,C,162,97,65,Cincinnati Reds
+2012,AL,CLE,CLE,C,162,68,94,Cleveland Indians
+2012,NL,COL,COL,W,162,64,98,Colorado Rockies
+2012,AL,DET,DET,C,162,88,74,Detroit Tigers
+2012,NL,HOU,HOU,C,162,55,107,Houston Astros
+2012,AL,KCA,KCR,C,162,72,90,Kansas City Royals
+2012,AL,LAA,ANA,W,162,89,73,Los Angeles Angels of Anaheim
+2012,NL,LAN,LAD,W,162,86,76,Los Angeles Dodgers
+2012,NL,MIA,FLA,E,162,69,93,Miami Marlins
+2012,NL,MIL,MIL,C,162,83,79,Milwaukee Brewers
+2012,AL,MIN,MIN,C,162,66,96,Minnesota Twins
+2012,AL,NYA,NYY,E,162,95,67,New York Yankees
+2012,NL,NYN,NYM,E,162,74,88,New York Mets
+2012,AL,OAK,OAK,W,162,94,68,Oakland Athletics
+2012,NL,PHI,PHI,E,162,81,81,Philadelphia Phillies
+2012,NL,PIT,PIT,C,162,79,83,Pittsburgh Pirates
+2012,NL,SDN,SDP,W,162,76,86,San Diego Padres
+2012,AL,SEA,SEA,W,162,75,87,Seattle Mariners
+2012,NL,SFN,SFG,W,162,94,68,San Francisco Giants
+2012,NL,SLN,STL,C,162,88,74,St. Louis Cardinals
+2012,AL,TBA,TBD,E,162,90,72,Tampa Bay Rays
+2012,AL,TEX,TEX,W,162,93,69,Texas Rangers
+2012,AL,TOR,TOR,E,162,73,89,Toronto Blue Jays
+2012,NL,WAS,WSN,E,162,98,64,Washington Nationals
+2013,NL,ARI,ARI,W,162,81,81,Arizona Diamondbacks
+2013,NL,ATL,ATL,E,162,96,66,Atlanta Braves
+2013,AL,BAL,BAL,E,162,85,77,Baltimore Orioles
+2013,AL,BOS,BOS,E,162,97,65,Boston Red Sox
+2013,AL,CHA,CHW,C,162,63,99,Chicago White Sox
+2013,NL,CHN,CHC,C,162,66,96,Chicago Cubs
+2013,NL,CIN,CIN,C,162,90,72,Cincinnati Reds
+2013,AL,CLE,CLE,C,162,92,70,Cleveland Indians
+2013,NL,COL,COL,W,162,74,88,Colorado Rockies
+2013,AL,DET,DET,C,162,93,69,Detroit Tigers
+2013,AL,HOU,HOU,W,162,51,111,Houston Astros
+2013,AL,KCA,KCR,C,162,86,76,Kansas City Royals
+2013,AL,LAA,ANA,W,162,78,84,Los Angeles Angels of Anaheim
+2013,NL,LAN,LAD,W,162,92,70,Los Angeles Dodgers
+2013,NL,MIA,FLA,E,162,62,100,Miami Marlins
+2013,NL,MIL,MIL,C,162,74,88,Milwaukee Brewers
+2013,AL,MIN,MIN,C,162,66,96,Minnesota Twins
+2013,AL,NYA,NYY,E,162,85,77,New York Yankees
+2013,NL,NYN,NYM,E,162,74,88,New York Mets
+2013,AL,OAK,OAK,W,162,96,66,Oakland Athletics
+2013,NL,PHI,PHI,E,162,73,89,Philadelphia Phillies
+2013,NL,PIT,PIT,C,162,94,68,Pittsburgh Pirates
+2013,NL,SDN,SDP,W,162,76,86,San Diego Padres
+2013,AL,SEA,SEA,W,162,71,91,Seattle Mariners
+2013,NL,SFN,SFG,W,162,76,86,San Francisco Giants
+2013,NL,SLN,STL,C,162,97,65,St. Louis Cardinals
+2013,AL,TBA,TBD,E,163,92,71,Tampa Bay Rays
+2013,AL,TEX,TEX,W,163,91,72,Texas Rangers
+2013,AL,TOR,TOR,E,162,74,88,Toronto Blue Jays
+2013,NL,WAS,WSN,E,162,86,76,Washington Nationals
+2014,NL,ARI,ARI,W,162,64,98,Arizona Diamondbacks
+2014,NL,ATL,ATL,E,162,79,83,Atlanta Braves
+2014,AL,BAL,BAL,E,162,96,66,Baltimore Orioles
+2014,AL,BOS,BOS,E,162,71,91,Boston Red Sox
+2014,AL,CHA,CHW,C,162,73,89,Chicago White Sox
+2014,NL,CHN,CHC,C,162,73,89,Chicago Cubs
+2014,NL,CIN,CIN,C,162,76,86,Cincinnati Reds
+2014,AL,CLE,CLE,C,162,85,77,Cleveland Indians
+2014,NL,COL,COL,W,162,66,96,Colorado Rockies
+2014,AL,DET,DET,C,162,90,72,Detroit Tigers
+2014,AL,HOU,HOU,W,162,70,92,Houston Astros
+2014,AL,KCA,KCR,C,162,89,73,Kansas City Royals
+2014,AL,LAA,ANA,W,162,98,64,Los Angeles Angels of Anaheim
+2014,NL,LAN,LAD,W,162,94,68,Los Angeles Dodgers
+2014,NL,MIA,FLA,E,162,77,85,Miami Marlins
+2014,NL,MIL,MIL,C,162,82,80,Milwaukee Brewers
+2014,AL,MIN,MIN,C,162,70,92,Minnesota Twins
+2014,AL,NYA,NYY,E,162,84,78,New York Yankees
+2014,NL,NYN,NYM,E,162,79,83,New York Mets
+2014,AL,OAK,OAK,W,162,88,74,Oakland Athletics
+2014,NL,PHI,PHI,E,162,73,89,Philadelphia Phillies
+2014,NL,PIT,PIT,C,162,88,74,Pittsburgh Pirates
+2014,NL,SDN,SDP,W,162,77,85,San Diego Padres
+2014,AL,SEA,SEA,W,162,87,75,Seattle Mariners
+2014,NL,SFN,SFG,W,162,88,74,San Francisco Giants
+2014,NL,SLN,STL,C,162,90,72,St. Louis Cardinals
+2014,AL,TBA,TBD,E,162,77,85,Tampa Bay Rays
+2014,AL,TEX,TEX,W,162,67,95,Texas Rangers
+2014,AL,TOR,TOR,E,162,83,79,Toronto Blue Jays
+2014,NL,WAS,WSN,E,162,96,66,Washington Nationals
+2015,NL,ARI,ARI,W,162,79,83,Arizona Diamondbacks
+2015,NL,ATL,ATL,E,162,67,95,Atlanta Braves
+2015,AL,BAL,BAL,E,162,81,81,Baltimore Orioles
+2015,AL,BOS,BOS,E,162,78,84,Boston Red Sox
+2015,AL,CHA,CHW,C,162,76,86,Chicago White Sox
+2015,NL,CHN,CHC,C,162,97,65,Chicago Cubs
+2015,NL,CIN,CIN,C,162,64,98,Cincinnati Reds
+2015,AL,CLE,CLE,C,161,81,80,Cleveland Indians
+2015,NL,COL,COL,W,162,68,94,Colorado Rockies
+2015,AL,DET,DET,C,161,74,87,Detroit Tigers
+2015,AL,HOU,HOU,W,162,86,76,Houston Astros
+2015,AL,KCA,KCR,C,162,95,67,Kansas City Royals
+2015,AL,LAA,ANA,W,162,85,77,Los Angeles Angels of Anaheim
+2015,NL,LAN,LAD,W,162,92,70,Los Angeles Dodgers
+2015,NL,MIA,FLA,E,162,71,91,Miami Marlins
+2015,NL,MIL,MIL,C,162,68,94,Milwaukee Brewers
+2015,AL,MIN,MIN,C,162,83,79,Minnesota Twins
+2015,AL,NYA,NYY,E,162,87,75,New York Yankees
+2015,NL,NYN,NYM,E,162,90,72,New York Mets
+2015,AL,OAK,OAK,W,162,68,94,Oakland Athletics
+2015,NL,PHI,PHI,E,162,63,99,Philadelphia Phillies
+2015,NL,PIT,PIT,C,162,98,64,Pittsburgh Pirates
+2015,NL,SDN,SDP,W,162,74,88,San Diego Padres
+2015,AL,SEA,SEA,W,162,76,86,Seattle Mariners
+2015,NL,SFN,SFG,W,162,84,78,San Francisco Giants
+2015,NL,SLN,STL,C,162,100,62,St. Louis Cardinals
+2015,AL,TBA,TBD,E,162,80,82,Tampa Bay Rays
+2015,AL,TEX,TEX,W,162,88,74,Texas Rangers
+2015,AL,TOR,TOR,E,162,93,69,Toronto Blue Jays
+2015,NL,WAS,WSN,E,162,83,79,Washington Nationals
+2016,NL,ARI,ARI,W,162,69,93,Arizona Diamondbacks
+2016,NL,ATL,ATL,E,161,68,93,Atlanta Braves
+2016,AL,BAL,BAL,E,162,89,73,Baltimore Orioles
+2016,AL,BOS,BOS,E,162,93,69,Boston Red Sox
+2016,AL,CHA,CHW,C,162,78,84,Chicago White Sox
+2016,NL,CHN,CHC,C,162,103,58,Chicago Cubs
+2016,NL,CIN,CIN,C,162,68,94,Cincinnati Reds
+2016,AL,CLE,CLE,C,161,94,67,Cleveland Indians
+2016,NL,COL,COL,W,162,75,87,Colorado Rockies
+2016,AL,DET,DET,C,161,86,75,Detroit Tigers
+2016,AL,HOU,HOU,W,162,84,78,Houston Astros
+2016,AL,KCA,KCR,C,162,81,81,Kansas City Royals
+2016,AL,LAA,ANA,W,162,74,88,Los Angeles Angels of Anaheim
+2016,NL,LAN,LAD,W,162,91,71,Los Angeles Dodgers
+2016,NL,MIA,FLA,E,161,79,82,Miami Marlins
+2016,NL,MIL,MIL,C,162,73,89,Milwaukee Brewers
+2016,AL,MIN,MIN,C,162,59,103,Minnesota Twins
+2016,AL,NYA,NYY,E,162,84,78,New York Yankees
+2016,NL,NYN,NYM,E,162,87,75,New York Mets
+2016,AL,OAK,OAK,W,162,69,93,Oakland Athletics
+2016,NL,PHI,PHI,E,162,71,91,Philadelphia Phillies
+2016,NL,PIT,PIT,C,162,78,83,Pittsburgh Pirates
+2016,NL,SDN,SDP,W,162,68,94,San Diego Padres
+2016,AL,SEA,SEA,W,162,86,76,Seattle Mariners
+2016,NL,SFN,SFG,W,162,87,75,San Francisco Giants
+2016,NL,SLN,STL,C,162,86,76,St. Louis Cardinals
+2016,AL,TBA,TBD,E,162,68,94,Tampa Bay Rays
+2016,AL,TEX,TEX,W,162,95,67,Texas Rangers
+2016,AL,TOR,TOR,E,162,89,73,Toronto Blue Jays
+2016,NL,WAS,WSN,E,162,95,67,Washington Nationals
+2017,NL,ARI,ARI,W,162,93,69,Arizona Diamondbacks
+2017,NL,ATL,ATL,E,162,72,90,Atlanta Braves
+2017,AL,BAL,BAL,E,162,75,87,Baltimore Orioles
+2017,AL,BOS,BOS,E,162,93,69,Boston Red Sox
+2017,AL,CHA,CHW,C,162,67,95,Chicago White Sox
+2017,NL,CHN,CHC,C,162,92,70,Chicago Cubs
+2017,NL,CIN,CIN,C,162,68,94,Cincinnati Reds
+2017,AL,CLE,CLE,C,162,102,60,Cleveland Indians
+2017,NL,COL,COL,W,162,87,75,Colorado Rockies
+2017,AL,DET,DET,C,162,64,98,Detroit Tigers
+2017,AL,HOU,HOU,W,162,101,61,Houston Astros
+2017,AL,KCA,KCR,C,162,80,82,Kansas City Royals
+2017,AL,LAA,ANA,W,162,80,82,Los Angeles Angels of Anaheim
+2017,NL,LAN,LAD,W,162,104,58,Los Angeles Dodgers
+2017,NL,MIA,FLA,E,162,77,85,Miami Marlins
+2017,NL,MIL,MIL,C,162,86,76,Milwaukee Brewers
+2017,AL,MIN,MIN,C,162,85,77,Minnesota Twins
+2017,AL,NYA,NYY,E,162,91,71,New York Yankees
+2017,NL,NYN,NYM,E,162,70,92,New York Mets
+2017,AL,OAK,OAK,W,162,75,87,Oakland Athletics
+2017,NL,PHI,PHI,E,162,66,96,Philadelphia Phillies
+2017,NL,PIT,PIT,C,162,75,87,Pittsburgh Pirates
+2017,NL,SDN,SDP,W,162,71,91,San Diego Padres
+2017,AL,SEA,SEA,W,162,78,84,Seattle Mariners
+2017,NL,SFN,SFG,W,162,64,98,San Francisco Giants
+2017,NL,SLN,STL,C,162,83,79,St. Louis Cardinals
+2017,AL,TBA,TBD,E,162,80,82,Tampa Bay Rays
+2017,AL,TEX,TEX,W,162,78,84,Texas Rangers
+2017,AL,TOR,TOR,E,162,76,86,Toronto Blue Jays
+2017,NL,WAS,WSN,E,162,97,65,Washington Nationals
+2018,NL,ARI,ARI,W,162,82,80,Arizona Diamondbacks
+2018,NL,ATL,ATL,E,162,90,72,Atlanta Braves
+2018,AL,BAL,BAL,E,162,47,115,Baltimore Orioles
+2018,AL,BOS,BOS,E,162,108,54,Boston Red Sox
+2018,AL,CHA,CHW,C,162,62,100,Chicago White Sox
+2018,NL,CHN,CHC,C,163,95,68,Chicago Cubs
+2018,NL,CIN,CIN,C,162,67,95,Cincinnati Reds
+2018,AL,CLE,CLE,C,162,91,71,Cleveland Indians
+2018,NL,COL,COL,W,163,91,72,Colorado Rockies
+2018,AL,DET,DET,C,162,64,98,Detroit Tigers
+2018,AL,HOU,HOU,W,162,103,59,Houston Astros
+2018,AL,KCA,KCR,C,162,58,104,Kansas City Royals
+2018,AL,LAA,ANA,W,162,80,82,Los Angeles Angels of Anaheim
+2018,NL,LAN,LAD,W,163,92,71,Los Angeles Dodgers
+2018,NL,MIA,FLA,E,161,63,98,Miami Marlins
+2018,NL,MIL,MIL,C,163,96,67,Milwaukee Brewers
+2018,AL,MIN,MIN,C,162,78,84,Minnesota Twins
+2018,AL,NYA,NYY,E,162,100,62,New York Yankees
+2018,NL,NYN,NYM,E,162,77,85,New York Mets
+2018,AL,OAK,OAK,W,162,97,65,Oakland Athletics
+2018,NL,PHI,PHI,E,162,80,82,Philadelphia Phillies
+2018,NL,PIT,PIT,C,161,82,79,Pittsburgh Pirates
+2018,NL,SDN,SDP,W,162,66,96,San Diego Padres
+2018,AL,SEA,SEA,W,162,89,73,Seattle Mariners
+2018,NL,SFN,SFG,W,162,73,89,San Francisco Giants
+2018,NL,SLN,STL,C,162,88,74,St. Louis Cardinals
+2018,AL,TBA,TBD,E,162,90,72,Tampa Bay Rays
+2018,AL,TEX,TEX,W,162,67,95,Texas Rangers
+2018,AL,TOR,TOR,E,162,73,89,Toronto Blue Jays
+2018,NL,WAS,WSN,E,162,82,80,Washington Nationals
+2019,NL,ARI,ARI,W,162,85,77,Arizona Diamondbacks
+2019,NL,ATL,ATL,E,162,97,65,Atlanta Braves
+2019,AL,BAL,BAL,E,162,54,108,Baltimore Orioles
+2019,AL,BOS,BOS,E,162,84,78,Boston Red Sox
+2019,AL,CHA,CHW,C,161,72,89,Chicago White Sox
+2019,NL,CHN,CHC,C,162,84,78,Chicago Cubs
+2019,NL,CIN,CIN,C,162,75,87,Cincinnati Reds
+2019,AL,CLE,CLE,C,162,93,69,Cleveland Indians
+2019,NL,COL,COL,W,162,71,91,Colorado Rockies
+2019,AL,DET,DET,C,161,47,114,Detroit Tigers
+2019,AL,HOU,HOU,W,162,107,55,Houston Astros
+2019,AL,KCA,KCR,C,162,59,103,Kansas City Royals
+2019,AL,LAA,ANA,W,162,72,90,Los Angeles Angels of Anaheim
+2019,NL,LAN,LAD,W,162,106,56,Los Angeles Dodgers
+2019,NL,MIA,FLA,E,162,57,105,Miami Marlins
+2019,NL,MIL,MIL,C,162,89,73,Milwaukee Brewers
+2019,AL,MIN,MIN,C,162,101,61,Minnesota Twins
+2019,AL,NYA,NYY,E,162,103,59,New York Yankees
+2019,NL,NYN,NYM,E,162,86,76,New York Mets
+2019,AL,OAK,OAK,W,162,97,65,Oakland Athletics
+2019,NL,PHI,PHI,E,162,81,81,Philadelphia Phillies
+2019,NL,PIT,PIT,C,162,69,93,Pittsburgh Pirates
+2019,NL,SDN,SDP,W,162,70,92,San Diego Padres
+2019,AL,SEA,SEA,W,162,68,94,Seattle Mariners
+2019,NL,SFN,SFG,W,162,77,85,San Francisco Giants
+2019,NL,SLN,STL,C,162,91,71,St. Louis Cardinals
+2019,AL,TBA,TBD,E,162,96,66,Tampa Bay Rays
+2019,AL,TEX,TEX,W,162,78,84,Texas Rangers
+2019,AL,TOR,TOR,E,162,67,95,Toronto Blue Jays
+2019,NL,WAS,WSN,E,162,93,69,Washington Nationals
