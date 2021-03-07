@@ -1,0 +1,232 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+  \usepackage{amssymb}
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\author{}
+\date{\vspace{-2.5em}}
+
+\begin{document}
+
+\hypertarget{partition-the-data-into-training-60-and-validation-40-sets.a.create-a-pivot-table-for}{%
+\section{Partition the data into training (60\%) and validation (40\%)
+sets.A.Create a pivot table
+for}\label{partition-the-data-into-training-60-and-validation-40-sets.a.create-a-pivot-table-for}}
+
+\hypertarget{the-training-data-with-online-as-a-column-variable-cc-as-a-row-variable-and-loan-as-a}{%
+\section{the training data with Online as a column variable, CC as a row
+variable, and Loan as
+a}\label{the-training-data-with-online-as-a-column-variable-cc-as-a-row-variable-and-loan-as-a}}
+
+\hypertarget{secondary-row-variable.-the-values-inside-the-table-should-convey-the-count.-in-r-use}{%
+\section{secondary row variable. The values inside the table should
+convey the count. In R
+use}\label{secondary-row-variable.-the-values-inside-the-table-should-convey-the-count.-in-r-use}}
+
+\hypertarget{functions-meltand-cast-or-function-table.-in-python-use-panda-dataframe-methods}{%
+\section{functions melt()and cast(), or function table(). In Python, use
+panda dataframe
+methods}\label{functions-meltand-cast-or-function-table.-in-python-use-panda-dataframe-methods}}
+
+\hypertarget{meltand-pivot.b.consider-the-task-of-classifying-a-customer-who-owns-a-bank-credit-card}{%
+\section{melt()and pivot().B.Consider the task of classifying a customer
+who owns a bank credit
+card}\label{meltand-pivot.b.consider-the-task-of-classifying-a-customer-who-owns-a-bank-credit-card}}
+
+\hypertarget{and-is-actively-using-online-banking-services.-looking-at-the-pivot-table-what-is-the}{%
+\section{and is actively using online banking services. Looking at the
+pivot table, what is
+the}\label{and-is-actively-using-online-banking-services.-looking-at-the-pivot-table-what-is-the}}
+
+\hypertarget{probability-that-this-customer-will-accept-the-loan-offer-this-is-the-probability-of}{%
+\section{probability that this customer will accept the loan offer?
+{[}This is the probability
+of}\label{probability-that-this-customer-will-accept-the-loan-offer-this-is-the-probability-of}}
+
+\hypertarget{loan-acceptance-loan-1-conditional-on-having-a-bank-credit-card-cc-1-and-being-an}{%
+\section{loan acceptance (Loan = 1) conditional on having a bank credit
+card (CC = 1) and being
+an}\label{loan-acceptance-loan-1-conditional-on-having-a-bank-credit-card-cc-1-and-being-an}}
+
+\hypertarget{active-user-of-online-banking-services-online-1.c.create-two-separate-pivot-tables-for}{%
+\section{active user of online banking services (Online = 1){]}.C.Create
+two separate pivot tables
+for}\label{active-user-of-online-banking-services-online-1.c.create-two-separate-pivot-tables-for}}
+
+\hypertarget{the-training-data.-onewill-have-loan-rows-as-a-function-of-online-columns-and-the-other}{%
+\section{the training data. Onewill have Loan (rows) as a function of
+Online (columns) and the
+other}\label{the-training-data.-onewill-have-loan-rows-as-a-function-of-online-columns-and-the-other}}
+
+\hypertarget{will-have-loan-rows-as-a-function-of-cc.d.compute-the-following-quantities-pa-b-means}{%
+\section{will have Loan (rows) as a function of CC.D.Compute the
+following quantities {[}P(A \textbar{} B)
+means}\label{will-have-loan-rows-as-a-function-of-cc.d.compute-the-following-quantities-pa-b-means}}
+
+\hypertarget{the-probability-ofa-given-b-i.pcc-1-loan-1-the-proportion-of-credit-card-holders}{%
+\section{``the probability ofA given B''{]}: i.P(CC = 1 \textbar{} Loan
+= 1) (the proportion of credit card
+holders}\label{the-probability-ofa-given-b-i.pcc-1-loan-1-the-proportion-of-credit-card-holders}}
+
+\hypertarget{among-the-loan-acceptorsii.ponline-1-loan-1-iii.ploan-1-the-proportion-of}{%
+\section{among the loan acceptors)ii.P(Online = 1 \textbar{} Loan = 1)
+iii.P(Loan = 1) (the proportion
+of}\label{among-the-loan-acceptorsii.ponline-1-loan-1-iii.ploan-1-the-proportion-of}}
+
+\hypertarget{loan-acceptors-iv.pcc-1-loan-0-v.ponline-1-loan-0vi.ploan-0e.use-the}{%
+\section{loan acceptors) iv.P(CC = 1 \textbar{} Loan = 0) v.P(Online = 1
+\textbar{} Loan = 0)vi.P(Loan = 0)E.Use
+the}\label{loan-acceptors-iv.pcc-1-loan-0-v.ponline-1-loan-0vi.ploan-0e.use-the}}
+
+\hypertarget{quantities-computed-above-to-compute-the-naive-bayes-probability-ploan-1-cc-1}{%
+\section{quantities computed above to compute the naive Bayes
+probability P(Loan = 1 \textbar{} CC =
+1,}\label{quantities-computed-above-to-compute-the-naive-bayes-probability-ploan-1-cc-1}}
+
+\hypertarget{online-1.f.compare-this-value-with-the-one-obtained-from-the-pivot-table-in-b.}{%
+\section{Online = 1).F.Compare this value with the one obtained from the
+pivot table in
+(B).}\label{online-1.f.compare-this-value-with-the-one-obtained-from-the-pivot-table-in-b.}}
+
+\hypertarget{which-is-a-more-accurate-estimateg.which-of-the-entries-in-this-table-are-needed-for}{%
+\section{Which is a more accurate estimate?G.Which of the entries in
+this table are needed
+for}\label{which-is-a-more-accurate-estimateg.which-of-the-entries-in-this-table-are-needed-for}}
+
+\hypertarget{computing-ploan-1-cc-1-online-1-run-naive-bayes-on-the-data.-examine-the-model}{%
+\section{computing P(Loan = 1 \textbar{} CC = 1, Online = 1)? Run naive
+Bayes on the data. Examine the
+model}\label{computing-ploan-1-cc-1-online-1-run-naive-bayes-on-the-data.-examine-the-model}}
+
+\hypertarget{output-on-training-data-and-find-the-entry-that-corresponds-to-ploan-1-cc-1}{%
+\section{output on training data, and find the entry that corresponds to
+P(Loan = 1 \textbar{} CC =
+1,}\label{output-on-training-data-and-find-the-entry-that-corresponds-to-ploan-1-cc-1}}
+
+\hypertarget{online-1.-compare-this-to-the-number-you-obtained-in-e.}{%
+\section{Online = 1). Compare this to the number you obtained in
+(E).}\label{online-1.-compare-this-to-the-number-you-obtained-in-e.}}
+
+\hypertarget{load-everything-from-before}{%
+\subsection{load everything from
+before}\label{load-everything-from-before}}
+
+library(readr) library(caret) library(reshape2) library(ISLR)
+library(e1071) library(tidyverse) library(pivottabler) library(class)
+library(gmodels) library(ggplot2) library(dplyr) library(tidyr)
+library(magrittr) library(fastDummies) library(rmarkdown) \#\# load the
+file UniversalBank \textless-
+read\_csv(``GitHub/64060\_mgeist/Assignment 3/UniversalBank.csv'')
+UniversalBank\(PersonalLoan = as.factor(UniversalBank\)PersonalLoan)
+UniversalBank\(Online = as.factor(UniversalBank\)Online)
+UniversalBank\(CreditCard = as.factor(UniversalBank\)CreditCard)
+View(UniversalBank) set.seed(123)
+
+\hypertarget{partitiion-data-6040}{%
+\subsection{partitiion data 60/40}\label{partitiion-data-6040}}
+
+Index\_Train \textless- sample(row.names(UniversalBank),
+0.6*dim(UniversalBank){[}1{]})\\
+Index\_Test \textless- setdiff(row.names(UniversalBank), Index\_Train)
+
+\#\#Part A print(``Part A'') partA \textless- UB\_Train
+table(``CC''=partA\(CreditCard,"PL"=partA\)PersonalLoan,``O/L''=partA\(Online) table1 = recast(partA,partA\)CreditCard+partA\(PersonalLoan~partA\)Online)
+table1
+
+\#\#Part B print(``Part B'') print(``The probability of the customer
+accepting the loan is 82/882 or 9.2\%'')
+
+\#\#Part C print(``Part C'') table2 =
+recast(partA,partA\(PersonalLoan~partA\)Online) table2 table3 =
+recast(partA,partA\(CreditCard~partA\)Online) table3
+
+\#\#Part D print(``Part D'') print(``CC=credit card, PL=personal loan,
+OL= online account'') print(``Part 1 is P(CC\textbar PL) = 77/(77+198)
+is 28.00\%'') print(``Part 2 is P(OL\textbar PL) = 166/(166+109) is
+60.30\%'') print(``Part 3 is P(PL) = 275/(275+2725) is 10.09\%'')
+print(``Part 4 is P(CC\textbar PL') = 801/(801+1924) is 29.39\%'')
+print(``Part 5 is P(OL\textbar PL') = 1588/(1588+1137) is 58.27\%'')
+print(``Part 6 is P(PL') = 2725/(275+2725) is 90.83\%'')
+
+\#\#Part E print(``Part E'')
+print(``P(CC\textbar PL)\emph{P(OL\textbar PL)}P(PL)'')
+print(``\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_'')
+print("P(CC\textbar PL)\emph{P(OL\textbar PL)P(PL)``) print(''+``)
+print(''P(CC\textbar PL')}P(OL\textbar PL')\emph{P(PL')")
+((77/(77+198))}(166/(166+109))\emph{(275/(275+2725)))/(((77/(77+198))}(166/(166+109))\emph{(275/(275+2725)))+((801/(801+1924))}(1588/(1588+1137))*2725/(2725+275)))
+
+\#\#Part F print(``Part F'') print(``Part B = 9.29\% and Part E =
+9.05\%'') print(``They are very similar. I believe that we the most
+accurate one is part be because it was an actual calculation, in this
+instance Naive Bayes is not needed.'')
+
+\#\#Part H print(``Part H'')
+
+train.df \textless- UniversalBank{[}Index\_Train, {]} test.df \textless-
+UniversalBank{[}Index\_Test, {]} train \textless-
+UniversalBank{[}Index\_Train, {]} test = UniversalBank{[}Index\_Test,{]}
+
+nb\_train = train.df{[},c(10,13:14){]} nb\_test =
+test.df{[},c(10,13:14){]} naivebayes =
+naiveBayes(PersonalLoan\textasciitilde.,data=nb\_train) naivebayes
+
+\end{document}
